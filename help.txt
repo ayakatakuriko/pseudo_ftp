@@ -1,0 +1,10 @@
+quit                  Terminated myftpc
+pwd                   Show current directory of server
+cd <path>             Change directory of server
+dir [path]            Show information of files in server
+lpwd                  Show current directory of client
+lcd <path>            Change directory of client
+ldir [path]           Show information of files in client
+get <path1> [path2]   Get file <path1> from server and save it as [path2]
+put <path1> [path2]   Put file <path1> into server and rename it as [path2]
+help                  Show how to use commands
